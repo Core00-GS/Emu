@@ -651,6 +651,10 @@ ret.image.save("doodle_ae.png")
 
 We thank the great work from [LLaMA](https://github.com/facebookresearch/llama), [BLIP-2](https://github.com/salesforce/LAVIS), [Stable Diffusion](https://github.com/CompVis/stable-diffusion), and [FastChat](https://github.com/lm-sys/FastChat).
 
+This work is supported by the National Science and Technology Major Project (No. 2022ZD0116314).
+
+本项目受新一代人工智能国家科技重大专项（No. 2022ZD0116314）支持。
+
 ## Citation
 
 If you find Emu useful for your research and applications, please consider starring this repository and citing:
